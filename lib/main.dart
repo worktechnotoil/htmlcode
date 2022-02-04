@@ -249,7 +249,7 @@ class _MyHomePageState extends State<MyHomePage> {
     // ignore: unnecessary_new
     return new Scaffold(
       appBar: AppBar(
-        title: const Text('flutter_html Example'),
+        title: const Text('flutter_html Example1'),
         centerTitle: true,
       ),
       body: SingleChildScrollView(
